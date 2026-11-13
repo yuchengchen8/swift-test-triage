@@ -1,0 +1,8 @@
+{
+  "tests": [
+    {"suite": "API", "name": "Create test record", "status": "passed"},
+    {"suite": "API", "name": "Fetch test record", "status": "passed"},
+    {"suite": "Mobile", "name": "Render report", "status": "failed"},
+    {"suite": "Web", "name": "Export report", "status": "skipped"}
+  ]
+}
